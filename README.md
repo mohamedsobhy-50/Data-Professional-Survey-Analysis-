@@ -1,4 +1,4 @@
-# 📊 Data Professional Survey Analysis
+<img width="1353" height="778" alt="Screenshot dashboard" src="https://github.com/user-attachments/assets/fc7486bd-636e-42ff-9612-bdd82abdc0b9" /># 📊 Data Professional Survey Analysis
 
 ## 📝 Description
 This project analyzes a survey dataset of data professionals from different countries to uncover insights about salaries, job roles, satisfaction levels, and trends in the data industry.
@@ -18,7 +18,7 @@ This project analyzes a survey dataset of data professionals from different coun
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Screenshot dashboard.png)
 
 ---
 
